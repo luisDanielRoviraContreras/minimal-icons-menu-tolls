@@ -1,7 +1,7 @@
 {
   "name": "minimal-icons-menu-tolls",
   "main": "./lib/minimal-icons-menu-tolls",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tolls menu to just icons, for the best organization experience",
   "keywords": [
     "tolls",
@@ -10,7 +10,7 @@
     "icons",
     "minimal"
   ],
-  "repository":"https://github.com/luisDanielRoviraContreras/minimal-icons-menu-tolls",
+  "repository": "https://github.com/luisDanielRoviraContreras/minimal-icons-menu-tolls",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
