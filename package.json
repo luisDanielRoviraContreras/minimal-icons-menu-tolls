@@ -10,7 +10,7 @@
     "icons",
     "minimal"
   ],
-  "repository": "https://github.com/atom/minimal-icons-menu-tolls",
+  "repository":"https://github.com/luisDanielRoviraContreras/minimal-icons-menu-tolls",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
