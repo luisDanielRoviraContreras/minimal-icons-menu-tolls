@@ -14,6 +14,7 @@ apm install minimal-icons-menu-tolls
 menu tolls before the package:
 
 ![preview gif](https://i.imgur.com/7Bc45wv.png)
+
 menu tolls after the package:
 
 ![preview gif](https://i.imgur.com/dZvmPeE.png)
