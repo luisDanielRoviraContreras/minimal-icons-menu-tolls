@@ -1,7 +1,7 @@
 {
   "name": "minimal-icons-menu-tolls",
   "main": "./lib/minimal-icons-menu-tolls",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Tolls menu to just icons, for the best organization experience",
   "keywords": [
     "tolls",
