@@ -1,0 +1,21 @@
+{
+  "name": "minimal-icons-menu-tolls",
+  "main": "./lib/minimal-icons-menu-tolls",
+  "version": "0.0.0",
+  "description": "Tolls menu to just icons, for the best organization experience",
+  "keywords": [
+    "tolls",
+    "menu",
+    "style",
+    "icons",
+    "minimal"
+  ],
+  "repository": "https://github.com/atom/minimal-icons-menu-tolls",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
